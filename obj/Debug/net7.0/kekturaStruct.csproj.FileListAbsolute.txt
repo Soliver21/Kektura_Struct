@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\bin\Debug\net7.0\kekturaStruct.exe
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\bin\Debug\net7.0\kekturaStruct.deps.json
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\bin\Debug\net7.0\kekturaStruct.runtimeconfig.json
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\bin\Debug\net7.0\kekturaStruct.dll
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\bin\Debug\net7.0\kekturaStruct.pdb
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\kekturaStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\kekturaStruct.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\kekturaStruct.AssemblyInfo.cs
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\kekturaStruct.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\kekturaStruct.dll
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\refint\kekturaStruct.dll
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\kekturaStruct.pdb
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\kekturaStruct.genruntimeconfig.cache
+C:\Users\User\Documents\Fekete Olivér 11.B\kekturaStruct\obj\Debug\net7.0\ref\kekturaStruct.dll
